@@ -1,13 +1,13 @@
 {
-  "id": "whatsapp",
-  "name": "WhatsApp",
-  "version": "1.0.17",
-  "description": "WhatsApp",
+  "id": "drift",
+  "name": "Drift",
+  "version": "1.0.0",
+  "description": "Drift",
   "main": "index.js",
-  "author": "Stefan Malzner <stefan@adlk.io>",
+  "author": "Samir <crisanto112@gmail.com>",
   "license": "MIT",
   "config": {
-    "serviceURL": "https://web.whatsapp.com",
+    "serviceURL": "https://app.drift.com/",
     "hasNotificationSound": true
   }
 }
